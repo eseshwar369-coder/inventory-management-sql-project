@@ -114,5 +114,7 @@ A foreign key does not prevent selling more units than are in stock. Preventing 
 - Add automated tests and save verified output screenshots or CSVs.
 
 ## Author
+## Author
 
-Add your name and GitHub profile here before publishing.
+**Eshwar Sai**
+
